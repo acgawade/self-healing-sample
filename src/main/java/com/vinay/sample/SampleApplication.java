@@ -10,6 +10,7 @@ public class SampleApplication {
 		SpringApplication.run(SampleApplication.class, args);
 		System.out.println("Application started by MEEEEEEE");
 		System.out.println("I am the P")
+;
 		System.out.println("Some random code is here");
 	}
 
