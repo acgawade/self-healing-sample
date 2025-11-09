@@ -12,9 +12,4 @@ public class HelperService {
         int result = x + 10;
     }
 
-    public int multiply(int a, int b) {
-        if (a > 0)
-            return a * b;
-    }
-
 }
